@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scroll Test App</string>
+    <string name="article_title">Greatest Athletes</string>
+    <string name="article_subtitle">List of Basketball Greats</string>
+    <string name="article_text">
+        In awake to the recent comparison of who is the GOAT (<b>G</b>reatest <b>O</b>f <b>A</b>ll <b>T</b>ime )\n
+        We have compiled a list of all the Basketball Greats and Their Team and achievements.\n
+        <b>LeBron Raymone James Sr. ("King James"</b>; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA)\n
+        He is often considered the best basketball player in the world and regarded by some as the greatest player of all time.\n
+        His accomplishments include four NBA Most Valuable Player Awards, three NBA Finals MVP Awards, and two Olympic gold medals.\n\n
+        James has appeared in fifteen NBA All-Star Games and been named NBA All-Star MVP three times.\n
+        He won the 2008 NBA scoring title, is the all-time NBA playoffs scoring leader, and is fifth in all-time career points scored.
+        He has been voted onto the All-NBA First Team twelve times and the All-Defensive First Team five times.\n
+
+    </string>
+</resources>
